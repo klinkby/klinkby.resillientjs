@@ -1,0 +1,24 @@
+{
+  "name": "klinkby-resillientjs",
+  "description": "Resilient XHR wrapper for supporting partially connected devices.",
+  "main": "klinkby.resillient.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "xhr",
+    "network",
+    "resilience",
+    "offline"
+  ],
+  "authors": [
+    "Mads Breusch Klinkby <klinkby+github@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "tests"
+  ]
+}
